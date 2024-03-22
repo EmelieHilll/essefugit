@@ -1,0 +1,33 @@
+{
+  "name": "essefugit",
+  "version": "1.0.0",
+  "description": "A Hardhat plugin for using Jest",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmelieHilll/essefugit.git"
+  },
+  "keywords": [
+    "earum",
+    "hardhat-plugin",
+    "accusamus",
+    "jest",
+    "aut",
+    "quod",
+    "solidity",
+    "minus",
+    "ad"
+  ],
+  "author": "DayneSmith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmelieHilll/essefugit.git/issues"
+  },
+  "homepage": "https://github.com/EmelieHilll/essefugit.git",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
